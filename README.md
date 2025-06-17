@@ -4,12 +4,12 @@ This project predicts loan eligibility for applicants based on personal and fina
 🚀 Overview
 The system helps banks or financial institutions determine if a customer is eligible for a loan by evaluating factors such as:
 
-Gender
-Marital Status
-Dependents
-Education
-Employment
-Income
-Loan Amount & Term
-Credit Score
-Property Area
+Gender,
+Marital Status,
+Dependents,
+Education,
+Employment,
+Income,
+Loan Amount & Term,
+Credit Score,
+Property Area.
